@@ -1,0 +1,50 @@
+﻿<Window x:Class="Phis.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Phis"
+        mc:Ignorable="d"
+        Title="Список студентов" Height="450" Width="495"  MinHeight="450" FontFamily="ALS Shlange Sans"   Background="#1E51A4"  MinWidth="495" Loaded="Window_Loaded" Closing="Window_Closing" >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="50*"/>
+            <ColumnDefinition Width="50*"/>
+        </Grid.ColumnDefinitions>
+
+        <TabControl Grid.Column="0" Name="Groups" FontFamily="ALS Shlange Sans" SelectionChanged="Groups_SelectionChanged">
+            <TabItem Name="TabItemM3200" Header="M3200" Loaded="M3200_Loaded" Background="#1E51A4" Foreground="#CACDEF" >
+                <ListBox x:Name="GroupM3200" FontFamily="ALS Shlange Sans" Foreground="#1E51A4" FontWeight="Bold" FontSize="12"  Background="#CACDEF" SelectionChanged="Group_M3200_SelectionChanged" MouseDoubleClick="Group_M3200_MouseDoubleClick"/>
+            </TabItem>
+
+            <TabItem Name="TabItemM3201" Header="M3201" Loaded="M3201_Loaded" Background="#1E51A4" Foreground="#CACDEF">
+                <ListBox x:Name="GroupM3201"  FontFamily="ALS Shlange Sans" Foreground="#1E51A4" FontWeight="Bold" FontSize="12" Background="#CACDEF" SelectionChanged="Group_M3201_SelectionChanged" MouseDoubleClick="Group_M3201_MouseDoubleClick" />
+            </TabItem>
+
+            <TabItem Name="TabItemM3202" Header="M3202" Loaded="M3202_Loaded" Background="#1E51A4" Foreground="#CACDEF">
+                <ListBox x:Name="GroupM3202" FontFamily="ALS Shlange Sans" Foreground="#1E51A4" FontWeight="Bold" FontSize="12" Background="#CACDEF" SelectionChanged="Group_M3202_SelectionChanged" MouseDoubleClick="Group_M3202_MouseDoubleClick"/>
+            </TabItem>
+        </TabControl>
+
+        <Button x:Name="button" Content="Изменить" Grid.Column="1" Click="button_Click" Margin="0,190,31,0" HorizontalAlignment="Right" VerticalAlignment="Top" Width="165" Height="40"  Background="#EC0B43" Foreground="White" FontSize="15"/>
+        <Button x:Name="NewStudent_Button" Content="Новый студент" HorizontalAlignment="Right" Margin="0,131,31,0" Grid.Column="1" VerticalAlignment="Top" Width="165" Height="40" Click="NewStudent_Button_OnClick" Background="#EC0B43" FontSize="15" Foreground="White"/>
+
+
+        <TextBlock x:Name="LName" Grid.Column="1" HorizontalAlignment="Right" TextWrapping="Wrap" VerticalAlignment="Top" Margin="0,25,30,0" Width="100" Height="25" Background="#CACDEF" Foreground="#EC0B43"  TextAlignment="Center" Padding="2.8" FontSize="12" />
+        <Label x:Name="LastName" Grid.Column="1"  Content="Фамилия:"  HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,25,158,0" FontSize="15" FontFamily="ALS Shlange Sans" Foreground="white"/>
+
+        <TextBlock x:Name="Name" Grid.Column="1" HorizontalAlignment="Right" TextWrapping="Wrap" VerticalAlignment="Top"  Width="100" Height="25" Margin="0,52,30,0" Background="#CACDEF" Foreground="#EC0B43"  TextAlignment="Center" Padding="2.8" FontSize="12"/>
+        <Label x:Name="FirstName" Grid.Column="1" Content="Имя:" Margin="0,53,190,0"  HorizontalAlignment="Right" VerticalAlignment="Top" FontSize="15" FontFamily="ALS Shlange Sans" Foreground="white">
+            <Label.Background>
+                <ImageBrush/>
+            </Label.Background>
+        </Label>
+
+        <TextBlock x:Name="Balls" Grid.Column="1" HorizontalAlignment="Right" TextWrapping="Wrap"  VerticalAlignment="Top"  Width="100" Height="25" Margin="0,79,30,0" Background="#CACDEF" Foreground="#EC0B43"  TextAlignment="Center" Padding="2.8" FontSize="12"/>
+        <Label x:Name="Ball" Grid.Column="1" Content="Баллы:" Margin="0,79,177,0"  HorizontalAlignment="Right" VerticalAlignment="Top" FontSize="15" FontFamily="ALS Shlange Sans" Foreground="white"/>
+        <Image x:Name="image1" Grid.Column="1" HorizontalAlignment="Right" Height="162" Margin="5,247,0,0" VerticalAlignment="Top" Width="238" Source="pack://siteoforigin:,,,/bin/Debug/Source/itmo_small_blue_rus.png" Visibility="Visible"  />
+
+
+
+    </Grid>
+</Window>

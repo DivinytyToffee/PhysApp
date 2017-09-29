@@ -1,0 +1,132 @@
+D:\Prog\Phis\Phis\bin\Debug\Phis.exe.config
+D:\Prog\Phis\Phis\bin\Debug\Phis.exe
+D:\Prog\Phis\Phis\bin\Debug\Phis.pdb
+D:\Prog\Phis\Phis\obj\Debug\MainWindow.g.cs
+D:\Prog\Phis\Phis\obj\Debug\App.g.cs
+D:\Prog\Phis\Phis\obj\Debug\Phis_MarkupCompile.cache
+D:\Prog\Phis\Phis\obj\Debug\Phis_MarkupCompile.lref
+D:\Prog\Phis\Phis\obj\Debug\MainWindow.baml
+D:\Prog\Phis\Phis\obj\Debug\Phis.g.resources
+D:\Prog\Phis\Phis\obj\Debug\Phis.Properties.Resources.resources
+D:\Prog\Phis\Phis\obj\Debug\Phis.csproj.GenerateResource.Cache
+D:\Prog\Phis\Phis\obj\Debug\Phis.exe
+D:\Prog\Phis\Phis\obj\Debug\Phis.pdb
+D:\Prog\Phis\Phis\obj\Debug\Phis.csprojResolveAssemblyReference.cache
+D:\Prog\Phis\Phis\obj\Debug\StudentWindow.g.cs
+D:\Prog\Phis\Phis\obj\Debug\StudentWindow.baml
+K:\Проекты\Физра\Phis\Phis\bin\Debug\Phis.exe.config
+K:\Проекты\Физра\Phis\Phis\obj\Debug\Phis.exe
+K:\Проекты\Физра\Phis\Phis\obj\Debug\Phis.pdb
+K:\Проекты\Физра\Phis\Phis\bin\Debug\Phis.exe
+K:\Проекты\Физра\Phis\Phis\bin\Debug\Phis.pdb
+K:\Проекты\Физра\Phis\Phis\obj\Debug\Phis.csprojResolveAssemblyReference.cache
+K:\Проекты\Физра\Phis\Phis\obj\Debug\MainWindow.g.cs
+K:\Проекты\Физра\Phis\Phis\obj\Debug\StudentWindow.g.cs
+K:\Проекты\Физра\Phis\Phis\obj\Debug\App.g.cs
+K:\Проекты\Физра\Phis\Phis\obj\Debug\Phis_MarkupCompile.cache
+K:\Проекты\Физра\Phis\Phis\obj\Debug\Phis_MarkupCompile.lref
+K:\Проекты\Физра\Phis\Phis\obj\Debug\MainWindow.baml
+K:\Проекты\Физра\Phis\Phis\obj\Debug\StudentWindow.baml
+K:\Проекты\Физра\Phis\Phis\obj\Debug\Phis.g.resources
+K:\Проекты\Физра\Phis\Phis\obj\Debug\Phis.Properties.Resources.resources
+K:\Проекты\Физра\Phis\Phis\obj\Debug\Phis.csproj.GenerateResource.Cache
+K:\Проекты\Физра\Phis\Phis\obj\Debug\NewStudent.g.cs
+K:\Проекты\Физра\Phis\Phis\obj\Debug\NewStudent.baml
+D:\123\Phis\Phis\bin\Debug\Phis.exe.config
+D:\123\Phis\Phis\obj\Debug\Phis.exe
+D:\123\Phis\Phis\obj\Debug\Phis.pdb
+D:\123\Phis\Phis\bin\Debug\Phis.exe
+D:\123\Phis\Phis\bin\Debug\Phis.pdb
+D:\123\Phis\Phis\obj\Debug\Phis.csprojResolveAssemblyReference.cache
+D:\123\Phis\Phis\obj\Debug\MainWindow.g.cs
+D:\123\Phis\Phis\obj\Debug\NewStudent.g.cs
+D:\123\Phis\Phis\obj\Debug\StudentWindow.g.cs
+D:\123\Phis\Phis\obj\Debug\App.g.cs
+D:\123\Phis\Phis\obj\Debug\Phis_MarkupCompile.cache
+D:\123\Phis\Phis\obj\Debug\Phis_MarkupCompile.lref
+D:\123\Phis\Phis\obj\Debug\MainWindow.baml
+D:\123\Phis\Phis\obj\Debug\NewStudent.baml
+D:\123\Phis\Phis\obj\Debug\StudentWindow.baml
+D:\123\Phis\Phis\obj\Debug\Phis.g.resources
+D:\123\Phis\Phis\obj\Debug\Phis.Properties.Resources.resources
+D:\123\Phis\Phis\obj\Debug\Phis.csproj.GenerateResource.Cache
+K:\Проекты\Физра\Phis (1)\Phis\bin\Debug\Phis.exe.config
+K:\Проекты\Физра\Phis (1)\Phis\obj\Debug\Phis.exe
+K:\Проекты\Физра\Phis (1)\Phis\obj\Debug\Phis.pdb
+K:\Проекты\Физра\Phis (1)\Phis\bin\Debug\Phis.exe
+K:\Проекты\Физра\Phis (1)\Phis\bin\Debug\Phis.pdb
+K:\Проекты\Физра\Phis (1)\Phis\obj\Debug\Phis.csprojResolveAssemblyReference.cache
+K:\Проекты\Физра\Phis (1)\Phis\obj\Debug\MainWindow.g.cs
+K:\Проекты\Физра\Phis (1)\Phis\obj\Debug\NewStudent.g.cs
+K:\Проекты\Физра\Phis (1)\Phis\obj\Debug\StudentWindow.g.cs
+K:\Проекты\Физра\Phis (1)\Phis\obj\Debug\App.g.cs
+K:\Проекты\Физра\Phis (1)\Phis\obj\Debug\Phis_MarkupCompile.cache
+K:\Проекты\Физра\Phis (1)\Phis\obj\Debug\Phis_MarkupCompile.lref
+K:\Проекты\Физра\Phis (1)\Phis\obj\Debug\MainWindow.baml
+K:\Проекты\Физра\Phis (1)\Phis\obj\Debug\NewStudent.baml
+K:\Проекты\Физра\Phis (1)\Phis\obj\Debug\StudentWindow.baml
+K:\Проекты\Физра\Phis (1)\Phis\obj\Debug\Phis.g.resources
+K:\Проекты\Физра\Phis (1)\Phis\obj\Debug\Phis.Properties.Resources.resources
+K:\Проекты\Физра\Phis (1)\Phis\obj\Debug\Phis.csproj.GenerateResource.Cache
+K:\Проекты\Физра\Phis (1)\Phis\obj\Debug\WindowException.g.cs
+K:\Проекты\Физра\Phis (1)\Phis\obj\Debug\WindowException.baml
+D:\123\Phis_1 (1)\Phis (1)\Phis\bin\Debug\Phis.exe.config
+D:\123\Phis_1 (1)\Phis (1)\Phis\obj\Debug\Phis.exe
+D:\123\Phis_1 (1)\Phis (1)\Phis\obj\Debug\Phis.pdb
+D:\123\Phis_1 (1)\Phis (1)\Phis\bin\Debug\Phis.exe
+D:\123\Phis_1 (1)\Phis (1)\Phis\bin\Debug\Phis.pdb
+D:\123\Phis_1 (1)\Phis (1)\Phis\obj\Debug\Phis.csprojResolveAssemblyReference.cache
+D:\123\Phis_1 (1)\Phis (1)\Phis\obj\Debug\MainWindow.g.cs
+D:\123\Phis_1 (1)\Phis (1)\Phis\obj\Debug\NewStudent.g.cs
+D:\123\Phis_1 (1)\Phis (1)\Phis\obj\Debug\StudentWindow.g.cs
+D:\123\Phis_1 (1)\Phis (1)\Phis\obj\Debug\WindowException.g.cs
+D:\123\Phis_1 (1)\Phis (1)\Phis\obj\Debug\App.g.cs
+D:\123\Phis_1 (1)\Phis (1)\Phis\obj\Debug\Phis_MarkupCompile.cache
+D:\123\Phis_1 (1)\Phis (1)\Phis\obj\Debug\Phis_MarkupCompile.lref
+D:\123\Phis_1 (1)\Phis (1)\Phis\obj\Debug\MainWindow.baml
+D:\123\Phis_1 (1)\Phis (1)\Phis\obj\Debug\NewStudent.baml
+D:\123\Phis_1 (1)\Phis (1)\Phis\obj\Debug\StudentWindow.baml
+D:\123\Phis_1 (1)\Phis (1)\Phis\obj\Debug\WindowException.baml
+D:\123\Phis_1 (1)\Phis (1)\Phis\obj\Debug\Phis.g.resources
+D:\123\Phis_1 (1)\Phis (1)\Phis\obj\Debug\Phis.Properties.Resources.resources
+D:\123\Phis_1 (1)\Phis (1)\Phis\obj\Debug\Phis.csproj.GenerateResource.Cache
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\bin\Debug\Phis.exe.config
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\obj\Debug\Phis.exe
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\obj\Debug\Phis.pdb
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\bin\Debug\Phis.exe
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\bin\Debug\Phis.pdb
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\obj\Debug\Phis.csprojResolveAssemblyReference.cache
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\obj\Debug\MainWindow.g.cs
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\obj\Debug\NewStudent.g.cs
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\obj\Debug\StudentWindow.g.cs
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\obj\Debug\WindowException.g.cs
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\obj\Debug\App.g.cs
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\obj\Debug\Phis_MarkupCompile.cache
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\obj\Debug\Phis_MarkupCompile.lref
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\obj\Debug\MainWindow.baml
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\obj\Debug\NewStudent.baml
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\obj\Debug\StudentWindow.baml
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\obj\Debug\WindowException.baml
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\obj\Debug\Phis.g.resources
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\obj\Debug\Phis.Properties.Resources.resources
+K:\Проекты\Физра\Phis_1\Phis (1)\Phis\obj\Debug\Phis.csproj.GenerateResource.Cache
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\bin\Debug\Phis.exe.config
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\obj\Debug\Phis.exe
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\obj\Debug\Phis.pdb
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\bin\Debug\Phis.exe
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\bin\Debug\Phis.pdb
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\obj\Debug\Phis.csprojResolveAssemblyReference.cache
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\obj\Debug\MainWindow.g.cs
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\obj\Debug\NewStudent.g.cs
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\obj\Debug\StudentWindow.g.cs
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\obj\Debug\WindowException.g.cs
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\obj\Debug\App.g.cs
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\obj\Debug\Phis_MarkupCompile.cache
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\obj\Debug\Phis_MarkupCompile.lref
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\obj\Debug\MainWindow.baml
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\obj\Debug\NewStudent.baml
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\obj\Debug\StudentWindow.baml
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\obj\Debug\WindowException.baml
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\obj\Debug\Phis.g.resources
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\obj\Debug\Phis.Properties.Resources.resources
+D:\123\Phis_1\Phis_1\Phis (1)\Phis\obj\Debug\Phis.csproj.GenerateResource.Cache

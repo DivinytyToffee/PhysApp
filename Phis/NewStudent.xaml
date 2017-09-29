@@ -1,0 +1,51 @@
+﻿<Window x:Class="Phis.NewStudent"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Phis"
+        mc:Ignorable="d"
+        Title="Добавление нового студента" Height="300" Width="300" FontFamily="ALS Shlange Sans"   Background="#1E51A4" Foreground="White" WindowStyle="None" >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="81*"/>
+            <ColumnDefinition Width="65*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="25*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Фамилия" Grid.Column="0" Grid.Row="1"  FontSize="15" FontFamily="ALS Shlange Sans" Foreground="white"/>
+        <Label Content="Имя" Grid.Column="0" Grid.Row="2"  FontSize="15" FontFamily="ALS Shlange Sans" Foreground="white"/>
+        <Label Content="Посещения" Grid.Column="0" Grid.Row="3" FontSize="15" FontFamily="ALS Shlange Sans" Foreground="white" />
+        <Label Content="Подтягивания" Grid.Column="0" Grid.Row="4"  FontSize="15" FontFamily="ALS Shlange Sans" Foreground="white"/>
+        <Label Content="Прыжки" Grid.Column="0" Grid.Row="5" FontSize="15" FontFamily="ALS Shlange Sans" Foreground="white" />
+        <Label Content="Бег 3км." Grid.Column="0" Grid.Row="6"  FontSize="15" FontFamily="ALS Shlange Sans" Foreground="white"/>
+        <Label Content="Бег 100м." Grid.Column="0" Grid.Row="7" FontSize="15" FontFamily="ALS Shlange Sans" Foreground="white" />
+        <Label Content="Личностные качества"  Grid.Column="0" Grid.Row="8" FontSize="15" FontFamily="ALS Shlange Sans" Foreground="white" />
+
+        <TextBox x:Name="LastName" Grid.Row="1" Grid.Column="1"  TextAlignment="Center" Background="#CACDEF" Foreground="#EC0B43" Padding="2.8" FontSize="12"/>
+        <TextBox x:Name="Name" Grid.Row="2" Grid.Column="1"  Background="#CACDEF" Foreground="#EC0B43"  TextAlignment="Center" Padding="2.8" FontSize="12"/>
+        <TextBox x:Name="Visits" Grid.Row="3" Grid.Column="1"  Background="#CACDEF" Foreground="#EC0B43"  TextAlignment="Center" Padding="2.8" FontSize="12"/>
+        <TextBox x:Name="Pod" Grid.Row="4" Grid.Column="1"  Background="#CACDEF" Foreground="#EC0B43"  TextAlignment="Center" Padding="2.8" FontSize="12"/>
+        <TextBox x:Name="Prig" Grid.Row="5" Grid.Column="1"  Background="#CACDEF" Foreground="#EC0B43"  TextAlignment="Center" Padding="2.8" FontSize="12"/>
+        <TextBox x:Name="Beg3km" Grid.Row="6" Grid.Column="1"  Background="#CACDEF" Foreground="#EC0B43"  TextAlignment="Center" Padding="2.8" FontSize="12"/>
+        <TextBox x:Name="Beg100m" Grid.Row="7" Grid.Column="1"  Background="#CACDEF" Foreground="#EC0B43"  TextAlignment="Center" Padding="2.8" FontSize="12"/>
+        <TextBox x:Name="Person" Grid.Row="8" Grid.Column="1"  Background="#CACDEF" Foreground="#EC0B43"  TextAlignment="Center" Padding="2.8" FontSize="12"/>
+        <Button Grid.Row="9"  Grid.Column="0" Grid.RowSpan="2" Content="Сохранить" x:Name="SaveButton" Click="SaveButton_OnClick" Background="#EC0B43" Foreground="White" FontSize="15"/>
+        <Button Grid.Row="9" Grid.Column="1" Grid.RowSpan="2" x:Name="ClearButton" Click="ClearButton_OnClick" Background="#EC0B43" Foreground="White" FontSize="15" Content="Очистить"/>
+        <Button x:Name="button"  Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Top" Width="25" Height="25" Click="Button_OnClick"  Background="#EC0B43" Foreground="White" FontSize="15" Content="X"/>
+        <Rectangle Grid.Row="0" Fill="#FF1E51A4" HorizontalAlignment="Left" Stroke="#FF1E51A4" VerticalAlignment="Top" Width="262" Height="25" Grid.ColumnSpan="2" MouseLeftButtonDown="UIElement_OnMouseLeftButtonDown"/>
+
+
+    </Grid>
+</Window>
